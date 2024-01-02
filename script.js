@@ -25,3 +25,4 @@ console.log(person);
 console.log(numbers);
 console.log(addNumbers(10, 20))
 console.log(person(haveMarried));
+console.log(person(age));
